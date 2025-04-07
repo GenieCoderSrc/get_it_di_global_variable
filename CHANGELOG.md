@@ -4,6 +4,10 @@
 All notable changes to this project will be documented in this file.
 
 
+## 0.0.4
+### Added
+- ✅ Add main Example file.
+
 ## 0.0.3
 ### Added
 - ✅ Simplifies dependency injection by providing a reusable singleton instance of `GetIt`.
