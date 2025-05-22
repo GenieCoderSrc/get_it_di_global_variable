@@ -8,7 +8,7 @@ Add this package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  get_it_di_global_variable: ^0.0.4
+  get_it_di_global_variable: ^0.0.5
 ```
 
 Then run:
