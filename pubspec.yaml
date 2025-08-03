@@ -7,19 +7,19 @@ issue_tracker: https://github.com/GenieCoderSrc/get_it_di_global_variable/issues
 
 
 environment:
-  sdk: ^3.7.2
+  sdk: ^3.8.1
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  get_it: ^8.0.3
+  get_it: ^8.2.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
