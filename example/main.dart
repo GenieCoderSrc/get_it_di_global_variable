@@ -1,4 +1,3 @@
-
 // Example Service
 import 'package:get_it_di_global_variable/get_it_di.dart';
 
