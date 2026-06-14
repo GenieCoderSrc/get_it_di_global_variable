@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.7
+
+### Jun 15, 2026
+
+### ✨ Updated
+- Updated `get_it: ^9.2.1`
+
+
+
 
 All notable changes to this project will be documented in this file.
 
