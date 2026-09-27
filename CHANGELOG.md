@@ -1,15 +1,12 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
 ## 0.0.8
 
 ### Jun 15, 2026
 
 ### ✨ Updated
 - Synchronized recursive dependencies and bumped version for stability.
-
-# Changelog
-
-All notable changes to this project will be documented in this file.
-
-
 
 
 ## 0.0.7
@@ -18,10 +15,6 @@ All notable changes to this project will be documented in this file.
 
 ### ✨ Updated
 - Updated `get_it: ^9.2.1`
-
-
-
-
 
 ## 0.0.6
 
