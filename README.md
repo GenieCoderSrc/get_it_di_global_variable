@@ -7,6 +7,8 @@ A simple Dart package that provides a globally accessible instance of `GetIt`, a
 Add this package to your `pubspec.yaml`:
 
 ```yaml
+resolution: workspace
+
 dependencies:
   get_it_di_global_variable: latest_version 
 ```
@@ -27,13 +29,17 @@ This package exposes a globally accessible instance of `GetIt` named `sl`, which
 import 'package:get_it_di_global_variable/get_it_di_global_variable.dart';
 ```
 
-### Register your dependencies:
+### Register your resolution: workspace
+
+dependencies:
 
 ```dart
 sl.registerSingleton<ApiService>(ApiService());
 ```
 
-### Retrieve your dependencies:
+### Retrieve your resolution: workspace
+
+dependencies:
 
 ```dart
 final apiService = sl<ApiService>();
