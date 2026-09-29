@@ -1,0 +1,12 @@
+name: get_it_di_global_variable
+description: "A tiny Dart package that exposes a global instance of GetIt (sl) for easy and consistent dependency injection across your Flutter or Dart project."
+version: 0.0.8
+homepage: https://github.com/GenieCoderSrc/get_it_di_global_variable
+repository: https://github.com/GenieCoderSrc/get_it_di_global_variable
+issue_tracker: https://github.com/GenieCoderSrc/get_it_di_global_variable/issues
+
+
+environment:
+  sdk: \x27>=3.6.0 <4.0.0\x27
+  resolution: workspace
+    flutter: ">=3.0.0"
